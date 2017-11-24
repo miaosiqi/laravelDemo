@@ -1,0 +1,11 @@
+@extends('layouts')
+@section('header')
+    @parent
+    header
+@endsection
+@section('sidebar')
+    sidebar
+@endsection
+@section('main')
+    main
+@endsection
